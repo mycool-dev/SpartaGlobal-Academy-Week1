@@ -1,4 +1,4 @@
-package com.sparta.me;
+package com.sparta.me.FilmGreeting;
 /*
     Programming principles (Readability, Maintainability, Testability)
     1) Never code in the main! (main should just run the code)

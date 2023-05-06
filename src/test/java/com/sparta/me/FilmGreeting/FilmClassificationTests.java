@@ -1,4 +1,4 @@
-package com.sparta.me;
+package com.sparta.me.FilmGreeting;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
@@ -10,7 +10,7 @@ public class FilmClassificationTests {
     @ValueSource(ints = {6,8,10})
     @DisplayName("Check that 6,8,10 returns U, PG & 12 films are available.")
     void checkForChild(int age){
-        Assertions.assertEquals("U, PG & 12 films are available.",FilmClassification.availableClassifications(age));
+        Assertions.assertEquals("U, PG & 12 films are available.", FilmClassification.availableClassifications(age));
     }
 
     @ParameterizedTest

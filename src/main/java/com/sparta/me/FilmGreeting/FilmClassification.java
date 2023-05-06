@@ -1,4 +1,4 @@
-package com.sparta.me;
+package com.sparta.me.FilmGreeting;
 
 public class FilmClassification {
     public static void main(String[] args) {

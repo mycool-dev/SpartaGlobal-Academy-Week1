@@ -1,4 +1,4 @@
-package com.sparta.me;
+package com.sparta.me.FilmGreeting;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
@@ -6,12 +6,12 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 
-public class ProgramTests {
+public class GreetingTests {
 
     @Test
     @DisplayName("Check that 7 returns Good Morning")
     void checkForGoodMorning(){
-        Assertions.assertEquals("Good morning!",Greeting.getGreeting(7));
+        Assertions.assertEquals("Good morning!", Greeting.getGreeting(7));
     }
 
     //Parameterized Test (check multiple values)

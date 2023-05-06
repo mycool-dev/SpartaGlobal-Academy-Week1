@@ -5,15 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49c6ef67-8f8d-42d6-b51a-2604e9ea4668" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/FilmClassification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/me/FilmClassificationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/me/ProgramTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/Bubblesort/Bubblesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/OOP principles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/TeamActivity/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/TeamActivity/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/TeamActivity/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/TeamActivity/Speed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/TeamActivity/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/Palindrome/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/me/Bubblesort/BubblesortTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/me/Palindrome/PalindromeTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/FilmClassification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/FilmGreeting/FilmClassification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/FilmGreeting/Greeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sparta/me/FilmClassificationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sparta/me/FilmGreeting/FilmClassificationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sparta/me/ProgramTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sparta/me/FilmGreeting/ProgramTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +34,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PQ1mkgDzMFPiprHkIAwHcDgu45" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -33,81 +48,116 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/michael/Documents/Sparta Global/Week_1/src/main/java/com/sparta/me"
+    "last_opened_file_path": "/Users/michael/Documents/Sparta Global/Week_1/src/main/java/com/sparta/me/OOP/TeamActivity",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/TeamActivity" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP" />
       <recent name="$PROJECT_DIR$/src/main/java/com/sparta/me" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sparta.me.filmgreeting" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sparta.me.Palindrome" />
+      <recent name="com.sparta.me.Bubblesort" />
       <recent name="com.sparta.me" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Greeting">
-    <configuration name="FilmClassification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sparta.me.FilmClassification" />
+  <component name="RunManager" selected="JUnit.GreetingTests">
+    <configuration name="BubblesortTests.checkForBubbleSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sparta.me.*" />
+          <option name="PATTERN" value="com.sparta.me.Bubblesort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.me.Bubblesort" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.me.Bubblesort.BubblesortTests" />
+      <option name="METHOD_NAME" value="checkForBubbleSort" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sparta.me.Greeting" />
+    <configuration name="FilmClassificationTests.checkForChild" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sparta.me.*" />
+          <option name="PATTERN" value="com.sparta.me.FilmGreeting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.me.FilmGreeting" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.me.FilmGreeting.FilmClassificationTests" />
+      <option name="METHOD_NAME" value="checkForChild(int)" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilmClassificationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GreetingTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sparta.me.*" />
+          <option name="PATTERN" value="com.sparta.me.FilmGreeting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sparta.me" />
-      <option name="MAIN_CLASS_NAME" value="com.sparta.me.FilmClassificationTests" />
+      <option name="PACKAGE_NAME" value="com.sparta.me.FilmGreeting" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.me.FilmGreeting.GreetingTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgramTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GreetingTests.checkForGoodMorning" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sparta.me.*" />
+          <option name="PATTERN" value="com.sparta.me.FilmGreeting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sparta.me" />
-      <option name="MAIN_CLASS_NAME" value="com.sparta.me.ProgramTests" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.sparta.me.FilmGreeting" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.me.FilmGreeting.GreetingTests" />
+      <option name="METHOD_NAME" value="checkForGoodMorning" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeTests.checkForWordTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Week_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.me.Palindrome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.me.Palindrome" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.me.Palindrome.PalindromeTests" />
+      <option name="METHOD_NAME" value="checkForWordTrue(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Greeting" />
-        <item itemvalue="Application.FilmClassification" />
-        <item itemvalue="JUnit.ProgramTests" />
-        <item itemvalue="JUnit.FilmClassificationTests" />
+        <item itemvalue="JUnit.GreetingTests" />
+        <item itemvalue="JUnit.PalindromeTests.checkForWordTrue" />
+        <item itemvalue="JUnit.FilmClassificationTests.checkForChild" />
+        <item itemvalue="JUnit.GreetingTests.checkForGoodMorning" />
+        <item itemvalue="JUnit.BubblesortTests.checkForBubbleSort" />
       </list>
     </recent_temporary>
   </component>
