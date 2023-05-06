@@ -7,7 +7,6 @@ public class Course {
     private String name;
     private Spartan[] classList;
     private LocalDate startDate;
-    //test comment
 
     public Course(int numberOfTrainees, String name, Spartan[] classList, LocalDate startDate) {
         this.numberOfTrainees = numberOfTrainees;
