@@ -4,45 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49c6ef67-8f8d-42d6-b51a-2604e9ea4668" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/Enums/Days.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/Enums/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/D/AfterApplyingD.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/D/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/D/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/D/GamingMonitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/D/Keyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/D/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/D/SixtyPercentKeyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/I/AfterApplyingI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/I/BeforeApplyingI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/I/ElectricVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/I/Ferrai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/I/ManualVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/I/NonElectricVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/I/Tesla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/I/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L/AfterApplyingL.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L/BeforeApplyingL.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L/BeforeApplyingL2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L/Falcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L/FlyingBird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L/NonFlyingBird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L/Ostrich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/O/AfterApplyingO.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/O/BeforeApplyingO.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/O/Mage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/O/WeaponMage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/S/AfterApplyingS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/S/BeforeApplyingS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/S/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/S/Spartan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/Strings/HashcodeAndEquals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="49c6ef67-8f8d-42d6-b51a-2604e9ea4668" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
