@@ -5,27 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49c6ef67-8f8d-42d6-b51a-2604e9ea4668" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/Bubblesort/Bubblesort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/OOP principles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/Playable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/TeamActivity/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/TeamActivity/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/TeamActivity/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/TeamActivity/Speed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/TeamActivity/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/Palindrome/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/me/Bubblesort/BubblesortTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/me/Palindrome/PalindromeTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/Enums/Days.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/Enums/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/D/AfterApplyingD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/D/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/D/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/D/GamingMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/D/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/D/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/D/SixtyPercentKeyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/I/AfterApplyingI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/I/BeforeApplyingI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/I/ElectricVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/I/Ferrai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/I/ManualVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/I/NonElectricVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/I/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/I/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L/AfterApplyingL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L/BeforeApplyingL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L/BeforeApplyingL2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L/Falcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L/FlyingBird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L/NonFlyingBird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L/Ostrich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/O/AfterApplyingO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/O/BeforeApplyingO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/O/Mage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/O/WeaponMage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/S/AfterApplyingS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/S/BeforeApplyingS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/S/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/S/Spartan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/Strings/HashcodeAndEquals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/FilmClassification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/FilmGreeting/FilmClassification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/FilmGreeting/Greeting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/sparta/me/FilmClassificationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sparta/me/FilmGreeting/FilmClassificationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/sparta/me/ProgramTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sparta/me/FilmGreeting/ProgramTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +66,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/michael/Documents/Sparta Global/Week_1/src/main/java/com/sparta/me/OOP/TeamActivity",
+    "last_opened_file_path": "/Users/michael/Documents/Sparta Global/Week_1/src/main/java/com/sparta/me/SOLID/D",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -58,48 +74,61 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/TeamActivity" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/sparta/me" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/D" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/I" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/L" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/O" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/S" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/ClassExample" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.sparta.me.filmgreeting" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sparta.me.Strings" />
       <recent name="com.sparta.me.Palindrome" />
       <recent name="com.sparta.me.Bubblesort" />
       <recent name="com.sparta.me" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GreetingTests">
-    <configuration name="BubblesortTests.checkForBubbleSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.com.sparta.me.SOLID.D.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sparta.me.SOLID.L.App" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sparta.me.Bubblesort.*" />
+          <option name="PATTERN" value="com.sparta.me.SOLID.L.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sparta.me.Bubblesort" />
-      <option name="MAIN_CLASS_NAME" value="com.sparta.me.Bubblesort.BubblesortTests" />
-      <option name="METHOD_NAME" value="checkForBubbleSort" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilmClassificationTests.checkForChild" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Days" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sparta.me.Enums.Days" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sparta.me.FilmGreeting.*" />
+          <option name="PATTERN" value="com.sparta.me.Enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sparta.me.FilmGreeting" />
-      <option name="MAIN_CLASS_NAME" value="com.sparta.me.FilmGreeting.FilmClassificationTests" />
-      <option name="METHOD_NAME" value="checkForChild(int)" />
-      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.sparta.me.SOLID.D.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sparta.me.SOLID.D.App" />
+      <module name="Week_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.me.SOLID.D.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,22 +144,6 @@
       <option name="PACKAGE_NAME" value="com.sparta.me.FilmGreeting" />
       <option name="MAIN_CLASS_NAME" value="com.sparta.me.FilmGreeting.GreetingTests" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GreetingTests.checkForGoodMorning" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Week_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sparta.me.FilmGreeting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sparta.me.FilmGreeting" />
-      <option name="MAIN_CLASS_NAME" value="com.sparta.me.FilmGreeting.GreetingTests" />
-      <option name="METHOD_NAME" value="checkForGoodMorning" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -153,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.sparta.me.SOLID.D.App" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Days" />
         <item itemvalue="JUnit.GreetingTests" />
         <item itemvalue="JUnit.PalindromeTests.checkForWordTrue" />
-        <item itemvalue="JUnit.FilmClassificationTests.checkForChild" />
-        <item itemvalue="JUnit.GreetingTests.checkForGoodMorning" />
-        <item itemvalue="JUnit.BubblesortTests.checkForBubbleSort" />
       </list>
     </recent_temporary>
   </component>
