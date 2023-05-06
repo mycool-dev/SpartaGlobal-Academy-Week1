@@ -11,7 +11,7 @@ public class Palindrome {
         String[] sentence = sentenceString.split(" ");
         //System.out.println(palindromeSentenceChecker(sentence));
 
-        System.out.println(isPalindromeForLoop("radar"));
+        System.out.println(isPalindromeForLoop("radarr"));
     }
 
     public static boolean isPalindrome(String originalWord) {//naming convention for boolean isX

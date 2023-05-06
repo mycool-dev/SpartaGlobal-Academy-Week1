@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49c6ef67-8f8d-42d6-b51a-2604e9ea4668" name="Changes" comment="" />
+    <list default="true" id="49c6ef67-8f8d-42d6-b51a-2604e9ea4668" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/solid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/ClassExample/OOP principles" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/OOP principles" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/Palindrome/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/Palindrome/Palindrome.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,18 +27,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/michael/Documents/Sparta Global/Week_1/src/main/java/com/sparta/me/SOLID/D",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/michael/Documents/Sparta Global/Week_1/src/main/java/com/sparta/me/SOLID/D&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/D" />
@@ -43,6 +48,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/S" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP" />
       <recent name="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/ClassExample" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -55,13 +61,26 @@
       <recent name="com.sparta.me" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.sparta.me.SOLID.D.App">
+  <component name="RunManager" selected="Application.Palindrome">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sparta.me.SOLID.L.App" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.sparta.me.SOLID.L.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bubblesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sparta.me.Bubblesort.Bubblesort" />
+      <module name="Week_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.me.Bubblesort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,6 +101,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sparta.me.Palindrome.Palindrome" />
+      <module name="Week_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.me.Palindrome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.sparta.me.SOLID.D.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sparta.me.SOLID.D.App" />
       <module name="Week_1" />
@@ -95,44 +127,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreetingTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Week_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sparta.me.FilmGreeting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sparta.me.FilmGreeting" />
-      <option name="MAIN_CLASS_NAME" value="com.sparta.me.FilmGreeting.GreetingTests" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PalindromeTests.checkForWordTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Week_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sparta.me.Palindrome.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sparta.me.Palindrome" />
-      <option name="MAIN_CLASS_NAME" value="com.sparta.me.Palindrome.PalindromeTests" />
-      <option name="METHOD_NAME" value="checkForWordTrue(java.lang.String)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.Bubblesort" />
         <item itemvalue="Application.com.sparta.me.SOLID.D.App" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.Days" />
-        <item itemvalue="JUnit.GreetingTests" />
-        <item itemvalue="JUnit.PalindromeTests.checkForWordTrue" />
       </list>
     </recent_temporary>
   </component>
