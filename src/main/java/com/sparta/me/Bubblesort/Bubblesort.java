@@ -5,8 +5,8 @@ import java.util.Arrays;
 public class Bubblesort {
     public static void main(String[] args) {
         int[] unsortedNumbers = {4,2,65,8,12,9};
-       // System.out.println("unsorted - " + Arrays.toString(unsortedNumbers));
-      //  System.out.println("sorted - " +Arrays.toString(sortedArray(unsortedNumbers)));
+        //System.out.println("unsorted - " + Arrays.toString(unsortedNumbers));
+        //System.out.println("sorted - " +Arrays.toString(sortedArray(unsortedNumbers)));
         System.out.println(Arrays.toString(bubbleArray(unsortedNumbers)));
     }
     public static int[] sortedArray (int[] unsortedNumbers){

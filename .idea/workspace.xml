@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49c6ef67-8f8d-42d6-b51a-2604e9ea4668" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/SOLID/solid" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/ClassExample/OOP principles" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/OOP/OOP principles" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/Palindrome/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/Palindrome/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/Bubblesort/Bubblesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/Bubblesort/Bubblesort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +35,11 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
@@ -61,39 +64,13 @@
       <recent name="com.sparta.me" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Palindrome">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sparta.me.SOLID.L.App" />
-      <module name="Week_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sparta.me.SOLID.L.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Bubblesort">
     <configuration name="Bubblesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sparta.me.Bubblesort.Bubblesort" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.sparta.me.Bubblesort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Days" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sparta.me.Enums.Days" />
-      <module name="Week_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sparta.me.Enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,13 +104,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Scratch (1)" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.Bubblesort" />
+        <item itemvalue="Java Scratch.Scratch (1)" />
+        <item itemvalue="Java Scratch.Scratch" />
+        <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.com.sparta.me.SOLID.D.App" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.Days" />
       </list>
     </recent_temporary>
   </component>
